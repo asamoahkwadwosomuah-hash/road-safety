@@ -1,0 +1,10 @@
+stated_cause,share_pct,quantified,note
+Speeding / reckless driving (bundled),60.0,True,Published as a single combined category; the two are not separable
+Alcohol,20.0,True,NRSA figure for 2022; overlaps with speeding category
+Wrongful overtaking,,False,Repeatedly named by NRSA officials; never quantified
+Overloading,,False,Named as worsening crash severity; never quantified
+Driver fatigue,,False,Named especially for commercial drivers; never quantified
+Drug use,,False,Tramadol specifically named by NRSA; never quantified
+"Vehicle defects (brakes, tyres, lighting)",,False,Requires inspection to establish; never quantified
+Road infrastructure defects,,False,Requires engineering assessment to establish; never quantified
+Low seatbelt / helmet use,,False,Named as a severity factor; never quantified
